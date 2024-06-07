@@ -115,15 +115,15 @@ disk_s[0]();
 >
 > 3. strengths
 >
->    a. It provides better throughput
+>        a. It provides better throughput
 >
->    b. It has a less average response and waiting time
+>        b. It has a less average response and waiting time
 >
 >    weaknesses
 >
->    a. Starvation is possible for some requests as it favours easy-to-reach requests and ignores the far-away processes
+>        a. Starvation is possible for some requests as it favours easy-to-reach requests and ignores the far-away processes
 >
->    b. Switching direction slows things down
+>        b. Switching direction slows things down
 
 <img src="img/design_doc_4/sstf.png" style="width:75%;" >
 
@@ -224,15 +224,15 @@ disk_s[0]();
 >
 > 3. strengths
 >
->    a. It provides better throughput
+>        a. It provides better throughput
 >
->    b. It has a less average response and waiting time
+>        b. It has a less average response and waiting time
 >
 >    weaknesses
 >
->    a. Starvation is possible for some requests as it favours easy-to-reach requests and ignores the far-away processes
+>        a. Starvation is possible for some requests as it favours easy-to-reach requests and ignores the far-away processes
 >
->    b. Switching direction slows things down
+>        b. Switching direction slows things down
 
 <img src="img/design_doc_4/optimal.png" style="width:75%;" >
 
